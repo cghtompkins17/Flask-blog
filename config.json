@@ -1,0 +1,11 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder",
+        "prod_uri": "mysql://root:@localhost/codingthunder",
+        "no_of_posts": 2,
+        "admin_user": "jayesh",
+        "admin_password": "hello1234",
+        "upload_location": "C:\\Jayesh\\Flsk-tutorial\\static\\assets\\img"
+    }
+}
